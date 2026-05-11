@@ -2,6 +2,16 @@
 
 For detailed API documentation, see [API Docs](api-docs/README.md).
 
+## Project Implementation Details
+
+This Student Microservice project includes the following implementations:
+
+- **SonarQube** - Integrated for code quality analysis and continuous inspection
+- **JaCoCo** - Configured for code coverage reporting and test coverage metrics
+- **OpenAPI Documentation** - Implemented to automatically generate API documentation
+- **Swagger UI** - Integrated for interactive API exploration and testing
+- **Markdown Documentation** - Generated markdown files with all configurations managed in `pom.xml`
+
 <a name="documentation-for-api-endpoints"></a>
 ## Documentation for API Endpoints
 
