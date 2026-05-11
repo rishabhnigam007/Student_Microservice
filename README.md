@@ -1,5 +1,7 @@
 # Documentation for Student API Services
 
+For detailed API documentation, see [API Docs](api-docs/README.md).
+
 <a name="documentation-for-api-endpoints"></a>
 ## Documentation for API Endpoints
 
